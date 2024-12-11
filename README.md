@@ -6,7 +6,6 @@ Some description!
 
 Watch tutorial.
 
-
-# Local Development
+## Local Development
 
 1. Open indax.html in your browser.
